@@ -78,7 +78,7 @@ qqnorm(dataset$Y.egységnyi.területre.jutó.lakás)
 #lineáris kapcsolat erősségének és irányának vizsgálata
 #1: tökéletes kapcsolat
 #0: nincs kapcsolat, függetlenek
-#-1: tökéletes, fordítottan arányos kapcsolat van
+#-1: tökéletes, fordítottan arányos kapcsolat van.
 
 #########dataset=subset(dataset,select=-c(X6.hosszúsági.fok)) #x6 változó kihagyása a modellből##########
 
